@@ -1,5 +1,5 @@
-# rosa
-A modern and minimalistic theme for [Clover Bootloader](https://sourceforge.net/projects/cloverefiboot/).
+# rosa black
+A modern and minimalistic theme for [Clover Bootloader](https://sourceforge.net/projects/cloverefiboot/). Based on the original theme [rosa](https://github.com/fbongcam/rosa-clover-theme).
 
 ![main](/screenshots/main.png)
 

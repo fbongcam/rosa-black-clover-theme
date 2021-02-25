@@ -70,7 +70,7 @@
 				<key>Big</key>
 				<string>selection_big.png</string>
 				<key>Color</key>
-				<string>0xF3F3F380</string>
+				<string>0x505050FF</string>
 				<key>Small</key>
 				<string>selection_small.png</string>
 				<key>OnTop</key>
